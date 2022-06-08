@@ -1,6 +1,7 @@
 module.exports = {
     title: '怪正经的公民',//网站名
     description: 'Just playing around',
+    base:'/thinker365.github.io/',
     themeConfig: {
         logo: '/assets/img/logo.jpg',
         sidebar: {
